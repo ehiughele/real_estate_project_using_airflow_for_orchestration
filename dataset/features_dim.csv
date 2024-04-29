@@ -1,0 +1,501 @@
+features_id,architectureType,cooling,coolingType,exteriorType,fireplace,floorCount,heating,heatingType,roofType,roomCount,fireplaceType,foundationType,unitCount,garage,garageType,garageSpaces,pool,poolType,viewType,id,bathrooms,bedrooms,squareFootage
+0,,,,,,,,,,,,,,,,,,,,"11940-County-Rd,-230,-Somerville,-TX-77879",,,
+1,,,,,,,,,,,,,,,,,,,,"5207-Fleet-Ave,-Apt-2,-Cleveland,-OH-44105",,,
+2,,,,,,,,,,,,,,,,,,,,"17425-Tyler-St-NE,-Ham-Lake,-MN-55304",2.0,3.0,1655.0
+3,Condo / Apartment,True,Central,Stucco,True,1.0,True,Forced Air,Tile,5.0,,,,,,,,,,"6551-Annie-Oakley-Dr,-Apt-426,-Henderson,-NV-89014",2.0,3.0,1239.0
+4,,,,,,,,,,,,,,,,,,,,"3924-Plumosa-Dr,-Saint-James-City,-FL-33956",1.5,2.0,1291.0
+5,,,,,,,,,,,,,,,,,,,,"9400-Fredericksburg-Rd,-Apt-2802,-San-Antonio,-TX-78240",,,
+6,,True,Commercial,Brick,True,1.0,True,Forced Air,Shingle,8.0,Prefab,Wood,1.0,,,,,,,"5798-Lake-Cyrus-Blvd,-Hoover,-AL-35244",3.5,4.0,2473.0
+7,,,,,,,,,,,,,,,,,,,,"321-Walnut-St,-Madison,-WI-53726",1.0,2.0,
+8,,,,,,,,,,,,,,,,,,,,"4649-S-Hills-Dr,-Folsom,-CA-95630",,,
+9,,,,,,,,,,,,,,,,,,,,"2375-Westwood-Blvd,-Los-Angeles,-CA-90064",,,
+10,Split Level,True,Central,Log,True,1.0,True,Central,Asphalt,5.0,,Masonry,1.0,True,Garage,,,,,"2329-Dawson-Forest-Rd-E,-Dawsonville,-GA-30534",2.0,3.0,1778.0
+11,,,,,,,,,,,,,,,,,,,,"PO-Box-1453,-Groves,-TX-77619",,,
+12,Conventional,True,Commercial,Brick,True,2.0,True,Heat Pump,Asphalt,5.0,,Slab / Mat / Raft,,,,,,,,"370-Hanover-Arms-Ct,-Winston-Salem,-NC-27104",2.5,2.0,1295.0
+13,,,,,,,,,,,,,,,,,,,,"5901-W-Behrend-Dr,-Apt-1132,-Glendale,-AZ-85308",,,
+14,,True,Commercial,Composition,,1.0,True,Forced Air,Composition Shingle,7.0,,Slab / Mat / Raft,1.0,True,Attached,,,,,"4833-Sines-Ln,-Port-Charlotte,-FL-33981",2.0,3.0,2001.0
+15,Split Level,True,Evaporative,,True,2.0,True,Forced Air,,,,,1.0,True,Detached,,,,,"4140-Benton-St,-Denver,-CO-80212",2.0,3.0,1600.0
+16,,True,Commercial,Brick,True,1.0,True,Forced Air,Metal,5.0,Single,Slab / Mat / Raft,1.0,,,,,,,"2413-Rocky-Ridge-Rd,-Vestavia,-AL-35243",1.0,3.0,3456.0
+17,,True,Central,Siding,True,2.0,True,Central,Composition Shingle,9.0,,,1.0,True,Attached,,,,,"5953-Triple-Crown-Dr,-Medina,-OH-44256",2.5,4.0,2534.0
+18,Conventional,True,Commercial,Aluminum / Vinyl Siding,True,2.0,True,Forced Air,Composition Shingle,,2 Story,,1.0,True,Attached Garage,2.0,,,,"8204-Rambling-Rose-Ln,-Laurel,-MD-20724",2.5,,2706.0
+19,,,,,,,,,,,,,,,,,,,,"53960-Lawson-Creek-Dr,-Shelby-Township,-MI-48316",2.5,3.0,2477.0
+20,Condo / Apartment,True,Commercial,,,,True,Central,,,,,1.0,,,,,,,"1154-N-Sycamore-Ave,-Apt-4,-Los-Angeles,-CA-90038",3.0,2.0,1091.0
+21,,True,Central,Brick Veneer,,1.0,True,Forced Air,Concrete,,,,1.0,True,Garage,,,,,"2930-Brougham-Ave,-Jacksonville,-FL-32246",2.0,3.0,2397.0
+22,,True,Central,Stucco,,1.0,True,Central,Asphalt,5.0,,Slab / Mat / Raft,1.0,True,Attached,,,,,"3630-Muirfield-Dr,-Titusville,-FL-32780",2.0,3.0,2100.0
+23,,,,,,,,,,,,,,,,,,,,"2100-St-Thomas-St,-Unit-207,-New-Orleans,-LA-70130",2.0,2.0,957.0
+24,,,,,True,1.0,True,,,11.0,,,1.0,True,Garage,,,,,"12154-Marilla-Dr,-Saratoga,-CA-95070",3.0,4.0,2396.0
+25,,,,,,,,,,,,,,,,,,,,"155-E-Rodeo-Rd,-Lot-66,-Casa-Grande,-AZ-85122",2.0,2.0,1450.0
+26,,True,Central,Aluminum / Vinyl Siding,,1.0,True,Central,Asphalt,5.0,,Block,2.0,,,,,,,"2347-Walden-Dr,-Augusta,-GA-30904",1.0,2.0,875.0
+27,,,,,,,,,,,,,,,,,,,,"154-Market-St,-Portsmouth,-NH-03801",,,
+28,Other,True,Central,Asbestos Shingle,,1.0,True,Forced Air,Asphalt,5.0,,Slab / Mat / Raft,1.0,True,Attached,1.0,,,,"3235-W-Woodlawn-Ave,-San-Antonio,-TX-78228",1.0,2.0,1004.0
+29,,,,,,,,,,,,,,,,,,,,"1147-Rosewood-Ln,-Ste-3,-Layton,-UT-84041",,,
+30,Ranch,True,Commercial,OTHER,,1.0,True,Forced Air,,,,Slab / Mat / Raft,,True,Detached,,,,,"1882-Dillingham-Dr,-Allegan,-MI-49010",2.0,3.0,1720.0
+31,Split Level,True,Central,Wood,,2.0,,,Shingle (Not Wood),,,Slab,1.0,True,Detached Garage,2.0,,,,"5900-Essex-Rd,-Oak-Forest,-IL-60452",3.0,3.0,1590.0
+32,Condo / Apartment,True,Central,Wood,,2.0,,,,6.0,,Raised,,True,Attached,2.0,,,,"1722-7th-Ave-N---B,-Nashville,-TN-37208",2.5,4.0,2050.0
+33,,True,Commercial,Brick,True,1.0,True,Forced Air,Asphalt,5.0,,,1.0,True,Attached,2.0,True,"Pool, Gunite",,"4658-Midway-St,-Saginaw,-MI-48638",1.5,3.0,1189.0
+34,,,,,,,,,,,,,,,,,,,,"2055-Allen-Dr,-Apt-103,-Annapolis,-MD-21401",,,
+35,Bungalow,True,Central,Wood,,1.0,True,Forced Air,Composition Shingle,4.0,,Block,1.0,True,Detached,1.0,,,,"1209-N-9th-St,-Salina,-KS-67401",1.0,2.0,720.0
+36,,,,,,,,,,,,,,,,,,,,"710-Concho-Pl,-College-Station,-TX-77840",,,
+37,,,,,,,,,,,,,,,,,,,,"729-W-Randolph-St,-Chicago,-IL-60661",,,
+38,,,,,,,,,,,,,,,,,,,,"23-W-Chicago-Ave,-Apt-603,-Chicago,-IL-60654",1.0,1.0,1012.0
+39,Bungalow,True,Central,Aluminum / Vinyl Siding,,1.0,True,Central,Shingle,5.0,,Block,1.0,True,Detached,1.0,,,,"108-Willard-Ave,-Farmingdale,-NY-11735",1.0,,748.0
+40,,,,,,,,,,,,,,,,,,,,"Oak-Ridge-Dr,-Lot-1,-Shell-Knob,-MO-65747",,,
+41,,,,,,,,,,,,,,,,,,,,"1672-Se-Hickory-Way,-Gresham,-OR-97080",3.0,4.0,1960.0
+42,Split Level,True,Commercial,Wood,True,2.0,True,Forced Air,Composition Shingle,7.0,,,1.0,,,,,,,"11724-Decade-Ct,-Reston,-VA-20191",3.0,3.0,1632.0
+43,Conventional,True,Central,Wood,True,2.0,True,Forced Air,,9.0,Prefab,,1.0,True,Garage,,,,,"130-Randomwood-Way,-Alpharetta,-GA-30022",3.5,4.0,2409.0
+44,,,,,,,,,,,,,,,,,,,,"56-Dogwood-Drive-Cir,-Ocala,-FL-34472",,,
+45,,,,,,,,,,,,,,,,,,,,"109-Blue-Ridge-Dr,-Pickens,-SC-29671",2.0,3.0,
+46,,,,,,,,,,,,,,,,,,,,"300-E-9th-St,-Apt-203,-Dallas,-TX-75203",,,
+47,,,,,,,,,,,,,,,,,,,,"171-Quail-Ridge-Rd,-Selah,-WA-98942",4.0,4.0,3597.0
+48,,,,,,,,,,,,,,,,,,,,"261-Sparrow-Ln,-Unit-19,-Lexington,-NC-27295",2.5,4.0,
+49,,,,,,,,,,,,,,,,,,,,"278-Carrollton-St,-Bremen,-GA-30110",,,
+50,Traditional,True,Commercial,Brick,True,2.0,True,Forced Air,Asphalt,11.0,,,1.0,True,Attached,,,,,"3225-Randy-Rd,-Joliet,-IL-60431",2.5,5.0,2970.0
+51,Traditional,,,Other,,2.0,True,Central,Shingle,3.0,,,1.0,,,,,,,"1310-Decatur-St,-Pittsburgh,-PA-15233",1.0,2.0,1462.0
+52,,,,,,,,,,,,,,,,,,,,"802-Beaufort-St,-Laramie,-WY-82072",,,
+53,,,,,,,,,,,,,,,,,,,,"1469-Beacon-St,-Apt-6,-Brookline,-MA-02446",,,
+54,,,,,,,,,,,,,,,,,,,,"2217-S-Genesee-Ave,-Apt-6,-Los-Angeles,-CA-90016",,,
+55,,,,,,,,,,,,,,,,,,,,"11468-Johannsen-Rd,-Ketchikan,-AK-99901",2.0,2.0,1356.0
+56,,,,,,,,,,,,,,,,,,,,"1280-San-Tomas-Aqn-Rd,-Apt-113,-San-Jose,-CA-95117",,,
+57,,,,,,,,,,,,,,,,,,,,"9944-Walnut-St,-Apt-2034,-Dallas,-TX-75243",,,
+58,,True,Central,Combination,True,1.0,True,Forced Air,Composition Shingle,7.0,,Concrete Block,,True,Attached Garage,1.0,,,,"237-Holly-Berry-Dr,-Frankfort,-KY-40601",2.0,3.0,1150.0
+59,,,,,,,,,,,,,,,,,,,,"568-N-Chancery-St,-Mcminnville,-TN-37110",,,
+60,Colonial,True,Central,Aluminum / Vinyl Siding,,2.0,True,Central,Shingle,8.0,,OTHER,1.0,True,Mixed,1.0,,,,"38-Sylvia-Ln,-Plainview,-NY-11803",1.5,,1621.0
+61,,True,Central,,,1.0,True,Central,,,,,1.0,True,Detached,2.0,,,,"4816-Bratcher-St,-Fort-Worth,-TX-76119",2.0,3.0,1695.0
+62,Ranch,True,Commercial,Aluminum / Vinyl Siding,,1.0,True,Hot Water,Asphalt,10.0,,,1.0,,,,,,,"168-Heritage-Hill-Rd,-New-Canaan,-CT-06840",3.0,3.0,2230.0
+63,,,,,,,,,,,,,,,,,,,,"PO-Box-607,-Dauphin-Island,-AL-36528",,,
+64,,,,,,,,,,,,,,,,,,,,"137-N-1050-W,-Cedar-City,-UT-84720",3.0,5.0,1800.0
+65,Conventional,True,Central,Stucco,,1.0,True,Central,Roll Tar & Gravel,,,Slab / Mat / Raft,1.0,True,Garage,,,,,"5209-Denver-Dr,-Galveston,-TX-77551",2.0,,2824.0
+66,,True,Central,,,1.0,True,Central,Asphalt,6.0,,,1.0,True,Detached,,,,,"9125-Wildwood-Dr,-Highland,-IN-46322",2.0,3.0,1144.0
+67,,True,Central,Brick,True,2.0,True,Central,,11.0,,,,True,Attached,,,,,"1112-Spencer-St,-Allen,-TX-75013",5.0,5.0,3857.0
+68,,,,,,,,,,,,,,,,,,,,"2560-Superior-St,-Opa-Locka,-FL-33054",,,
+69,,,,,,,,,,,,,,,,,,,,"18023-Hillgrove-Ave,-Cleveland,-OH-44119",,,
+70,,True,Central,,True,1.0,True,Central,Asphalt,6.0,,Raised,,True,Detached,,,,,"938-E-8th-St,-Jeffersonville,-IN-47130",2.0,3.0,896.0
+71,Ranch,True,Commercial,Stucco,True,1.0,True,Forced Air,Composition Shingle,6.0,,,1.0,True,Attached,,,,,"114-Windstone-Blvd,-Powell,-TN-37849",2.5,3.0,1733.0
+72,,,,OTHER,True,2.0,True,Forced Air,Composition Shingle,9.0,Single,OTHER,1.0,True,Attached,1.0,,,,"2200-Bronson-St,-Fort-Collins,-CO-80526",4.0,4.0,1939.0
+73,,,,,,,,,,,,,,,,,,,,"20-Beechwood-Ave,-York,-ME-03909",2.5,3.0,2174.0
+74,,True,Wall,Wood,True,,True,Forced Air,Wood Shingle,,Prefab,Footing,1.0,True,Garage,,,,,"9708-Sw-Arikara-Dr,-Tualatin,-OR-97062",3.0,,2129.0
+75,,,,,,,,,,,,,,,,,,,,"11903-Sw-31st-Rd,-Gainesville,-FL-32608",3.5,4.0,2483.0
+76,,,,,,,,,,,,,,,,,,,,"5420-River-Oaks-Blvd,-River-Oaks,-TX-76114",,,
+77,,True,Evaporative,Block,,1.0,True,Forced Air,Built-up (Layered Asphalt),6.0,,,1.0,True,Carport,1.0,,,,"1455-W-Ina-Rd,-Tucson,-AZ-85704",2.0,,1554.0
+78,Mobile Home,,,Metal,,,True,Forced Air,Metal,,,,1.0,True,Carport,1.0,,,,"546-D-St,-Blaine,-WA-98230",1.0,1.0,490.0
+79,Ranch,True,Central,Stucco,,1.0,True,Central,Asphalt,7.0,,,,True,Attached,,,,,"12921-S-Tortoise-Ln,-Riverton,-UT-84096",2.0,4.0,3140.0
+80,Condo / Apartment,True,Commercial,,,1.0,True,Central,,8.0,,,,,,,,,,"14654-S-Bloom-Dr,-Unit-302,-Herriman,-UT-84096",2.0,3.0,1272.0
+81,Split Level,True,Commercial,,True,1.0,True,,,6.0,,,1.0,,,,,,,"2906-Medina-Dr,-Jonesboro,-GA-30236",2.0,3.0,1714.0
+82,Duplex,,,,,2.0,,,,,,,2.0,,,,,,,"63-Macdougal-St,-Brooklyn,-NY-11233",2.0,,1140.0
+83,,True,Commercial,Wood Siding,,1.0,True,,Shingle (Not Wood),,,Brick,,,,,,,,"455-W-Sunset-Dr,-Talladega,-AL-35160",2.0,,1862.0
+84,,True,Central,Wood,True,2.0,True,Central,,,,,1.0,True,Carport,1.0,,,,"501-Peachtree-Club-Dr,-Peachtree-City,-GA-30269",2.0,2.0,1159.0
+85,Ranch / Rambler,True,Central,Aluminum / Vinyl Siding,,1.0,True,Central,,,,,1.0,True,Attached Garage,2.0,,,,"1109-Twin-Leaf-Ter,-Webster,-NY-14580",2.0,2.0,1396.0
+86,,,,,,,,,,,,,,,,,,,,"400A-Larkin-Ct,-Warrensburg,-MO-64093",,,
+87,Split Level,True,Central,Wood,True,2.0,True,Forced Air,Composition Shingle,,,Footing,1.0,True,Garage,1.0,,,,"8-Colonial-Dr,-Lexington,-NC-27292",2.0,2.0,3362.0
+88,,,,,,2.0,,,,,,,,True,Attached,2.0,,,,"752-Guna-Dr,-New-Braunfels,-TX-78130",,,1888.0
+89,,True,Commercial,,,1.0,True,Central,Composition Shingle,,,Slab / Mat / Raft,1.0,True,Attached,1.0,,,,"8405-Briarwood-Ln,-Austin,-TX-78757",1.0,3.0,1051.0
+90,,,,,,,,,,,,,,,,,,,,"2517-S-Johnson-St,-New-Orleans,-LA-70125",4.0,4.0,1598.0
+91,,,,,,,,,,,,,,,,,,,,"2215-Opal-Field-Ln,-Richmond,-TX-77469",,,
+92,,,,,,,,,,,,,,,,,,,,"244-Apollo-Dr,-Bumpus-Mills,-TN-37028",1.0,3.0,1334.0
+93,Condo / Apartment,,,Brick,,2.0,True,,,6.0,,,1.0,,,,,,Average,"1415-E-Wilt-St,-Philadelphia,-PA-19125",1.0,3.0,1022.0
+94,,,,,,,,,,,,,,,,,,,,"2538-W-Division-St,-Chicago,-IL-60622",,,
+95,,True,Refrigeration,,True,1.0,,,,,,,1.0,True,Garage,2.0,,,,"4613-N-Bain-Ave,-Fresno,-CA-93722",2.0,4.0,1970.0
+96,,,,,,,,,,,,,,,,,,,,"Park-Part-8-Pl,-Lot-40,-Tiffin,-IA-52340",,,
+97,Ranch,True,Other,Wood,True,1.0,True,Other,Composition Shingle,6.0,Single,Raised,1.0,True,Carport,1.0,,,,"3414-Denver-St,-Memphis,-TN-38127",1.0,2.0,1382.0
+98,Ranch,,,Wood,,1.0,True,Forced Air,,,,,1.0,,,,,,,"28-Andrew-Dr,-Manahawkin,-NJ-08050",2.0,3.0,1240.0
+99,Conventional,True,Commercial,Aluminum / Vinyl Siding,True,2.0,True,Heat Pump,Composition Shingle,,,,1.0,True,Garage,,,,,"1137-Odenton-Rd,-Odenton,-MD-21113",2.5,3.0,1566.0
+100,,,,,,,,,,,,,,,,,,,,"250-Kensington-Rd,-Apt-31,-Berlin,-CT-06037",,,
+101,,True,Central,Brick Veneer,True,2.0,True,Central,Composition Shingle,12.0,,Slab / Mat / Raft,1.0,True,Attached,2.0,,,,"1045-Delaware-Dr,-Carrollton,-TX-75010",2.0,4.0,2347.0
+102,Condo / Apartment,,,,,,,,,,,,1.0,,,,,,,"9504-Amberleigh-Ln,-Unit-R,-Perry-Hall,-MD-21128",1.0,2.0,1658.0
+103,Condo / Apartment,,,,,2.0,,,,,,,,True,Garage,,,,,"8504-Ridgewood-Rd,-Unit-601,-Rock-Island,-IL-61201",2.0,3.0,960.0
+104,,,,,,,,,,,,,,,,,,,,"2313-E-26th-St,-Apt-9,-Erie,-PA-16510",,,
+105,Colonial,True,Central,Other,True,2.0,True,Central,Shingle,8.0,,,1.0,True,Attached,2.0,,,,"790-Boulder-Dr,-Bethel-Park,-PA-15102",2.5,4.0,1890.0
+106,,,,,,,,,,,,,,,,,,,,"1729-Kent-St,-Los-Angeles,-CA-90026",1.0,2.0,800.0
+107,Traditional,True,Central,Brick Veneer,True,2.0,True,Central,,8.0,,Slab / Mat / Raft,1.0,True,Attached,2.0,True,"Pool, Gunite",,"11915-Kirkbriar-Dr,-Houston,-TX-77089",2.5,5.0,2267.0
+108,Conventional,True,Central,Aluminum / Vinyl Siding,,2.0,True,Forced Air,,8.0,,Slab / Mat / Raft,1.0,True,Attached,,,,,"1232-Westfield-Dr,-Maumee,-OH-43537",2.5,3.0,1966.0
+109,,,,,,,,,,,,,,,,,,,,"10B-Idared-Ln,-Halfmoon,-NY-12065",2.0,2.0,3940.0
+110,,,,,True,1.0,True,Forced Air,,,,,1.0,,,,,,,"6822-26th-Ave-NE,-Seattle,-WA-98115",1.5,3.0,1290.0
+111,,,,,,,,,,,,,,,,,,,,"2240-W-Broadway-Rd,-Ste-108,-Mesa,-AZ-85202",,,
+112,,,,Brick,,2.0,True,,,6.0,,,1.0,True,Basement,1.0,,,,"3048-N-Bend-Rd,-Cincinnati,-OH-45239",1.0,1.0,1566.0
+113,Ranch,,,Wood,,1.0,True,Baseboard,Asphalt,,,,1.0,,,,,,,"207-Midway-Ave,-Seaside-Park,-NJ-08752",2.0,2.0,910.0
+114,,,,Aluminum / Vinyl Siding,,1.0,,,,,,,1.0,,,,,,,"334-High-St,-Rock-Hill,-SC-29730",1.0,,1008.0
+115,,,,,,,,,,,,,,,,,,,,"98-Queensberry-St,-Apt-5,-Boston,-MA-02215",1.0,1.0,
+116,,True,Commercial,,True,1.0,True,Central,,,,,1.0,True,Attached,,,,,"4900-Schumacher-Rd,-High-Ridge,-MO-63049",4.0,,1844.0
+117,,True,Commercial,Brick,,1.0,True,Central,Composition Shingle,,,Footing,1.0,True,Attached,,,,,"771-Tuggle-Hill-Rd,-Rogersville,-TN-37857",2.0,,1631.0
+118,,True,Central,,,2.0,True,Central,,,,,,True,Garage,,,,,"766-Hydrangea-Dr,-Vacaville,-CA-95687",3.5,4.0,2970.0
+119,Condo / Apartment,,,,,,,,,,,,1.0,,,,,,,"1110-Mahogany-Way,-Apt-203,-Delray-Beach,-FL-33445",2.0,2.0,1167.0
+120,Conventional,True,Commercial,Brick,True,2.0,True,Forced Air,Composition Shingle,,2 Story,,1.0,True,Attached Garage,2.0,,,,"6117-Calwood-Way,-Rockville,-MD-20852",3.0,5.0,3024.0
+121,,,,,,,,,,,,,,,,,,,,"3465-Brownsville-Rd-Ext,-Finleyville,-PA-15332",2.0,4.0,1425.0
+122,,,,,,,,,,,,,,,,,,,,"9999-Ranch-Rd,-Laurens,-SC-29360",,,
+123,Condo / Apartment,,,Brick,,2.0,,,,,,,1.0,,,,,,Average,"3347-Wiehle-St,-Philadelphia,-PA-19129",,,2200.0
+124,,True,,Wood,,1.0,,,,,,,,True,Garage,,,,,"307-S-Center-St,-Weimar,-TX-78962",,,1106.0
+125,,True,Commercial,Wood,True,1.0,True,Forced Air,Shingle,5.0,,,1.0,True,Basement,,,,,"21-Eddings-Ln,-Alabaster,-AL-35007",2.0,4.0,1783.0
+126,Ranch,,,Aluminum / Vinyl Siding,True,1.0,True,Hot Water,,6.0,,,1.0,,,,,,,"807-Montgomery-Ave,-Phoenixville,-PA-19460",1.0,3.0,1288.0
+127,,True,Central,Aluminum / Vinyl Siding,,2.0,True,Radiant,,6.0,,,1.0,,,,,,,"563-Marshall-Ave,-Reading,-PA-19606",1.5,3.0,1280.0
+128,,,,,,,,,,,,,,,,,,,,"4365-Blackhawk-Dr,-Willits,-CA-95490",,,
+129,,True,Central,Brick Veneer,,2.0,True,Central,Composition Shingle,,,Slab / Mat / Raft,,True,Garage,,,,,"7515-Broadmoor-Cv,-Temple,-TX-76502",,,2209.0
+130,,True,Central,Wood Frame,,1.0,True,Central,,,,,,,,,,,,"1700-Carver-Ave,-Richmond,-TX-77469",2.0,2.0,1075.0
+131,,,,,,,,,,,,,,,,,,,,"188-Railroad-St,-Apt-3,-Manville,-RI-02838",,,
+132,Mobile Home,True,Commercial,,,1.0,True,Forced Air,Metal,,,,1.0,True,Carport,,,,,"1000-Kings-Hwy,-Unit-74,-Punta-Gorda,-FL-33980",,,960.0
+133,,,,,,,,,,,,,,,,,,,,"209-S-Prospect-Ave,-Apt-101,-Redondo-Beach,-CA-90277",,,
+134,,,,,,,,,,,,,,,,,,,,"1022-Level-Creek-Rd,-Apt-207,-Sugar-Hill,-GA-30518",,,
+135,,True,Central,Aluminum / Vinyl Siding,,2.0,True,Forced Air,Asphalt,,,Slab / Mat / Raft,1.0,,,,,,,"9427-Kimmel-Ln,-Charlotte,-NC-28216",2.0,3.0,1600.0
+136,,,,,,,,,,,,,,,,,,,,"1293-N-River-Rd,-Apt-122,-Denham-Springs,-LA-70726",,,
+137,,,,,,2.0,,,,,,,1.0,,,,,,,"361-Wilson-Ave,-Lyndhurst,-NJ-07071",,,1590.0
+138,,True,Central,Brick Veneer,True,1.0,True,Central,Composition Shingle,,,Slab / Mat / Raft,1.0,True,Attached,2.0,,,,"1834-Santa-Fe,-Lewisville,-TX-75077",2.0,3.0,1744.0
+139,Conventional,True,Central,Wood,True,2.0,True,Central,,7.0,,Raised,1.0,True,Garage,,,,,"3420-Donner-Trl,-Wake-Forest,-NC-27587",2.0,,2048.0
+140,Condo / Apartment,True,Commercial,Log,True,,True,,,,,,1.0,True,Garage,,,,,"1-Smeton-Pl,-Apt-102,-Towson,-MD-21204",,,1393.0
+141,,,,,,,,,,,,,,,,,,,,"413-4th-St-E,-Jasper,-MN-56144",1.0,3.0,1137.0
+142,,,,,,,,,,,,,,,,,,,,"3160-W-Shawn-Way,-Lot-547,-Ash-Fork,-AZ-86320",,,
+143,,,,,,,,,,,,,,,,,,,,"PO-Box-1050,-Wrightsville-Beach,-NC-28480",,,
+144,,,,,,,,,,,,,,,,,,,,"131-S-2460-W,-Hurricane,-UT-84737",3.0,4.0,2109.0
+145,,True,Central,Stucco,,1.0,True,Central,Composition Shingle,,,Slab / Mat / Raft,1.0,,,,,,,"912-N-19th-St,-Mcallen,-TX-78501",1.0,3.0,1036.0
+146,Ranch / Rambler,True,,Aluminum / Vinyl Siding,,1.0,True,Floor / Wall,Composition Shingle,4.0,,Slab,,,,,,,,"24217-Ne-136th-St,-Excelsior-Springs,-MO-64024",1.0,2.0,1432.0
+147,,,,,,,,,,,,,,,,,,,,"850-Big-Five-Rd,-Spc-40,-Pahrump,-NV-89048",,,
+148,,,,,,,,,,,,,,,,,,,,"1441-Sterns-Dr,-Leesburg,-FL-34748",,,
+149,Duplex,True,Commercial,,,2.0,True,Central,Shingle,3.0,,,,True,Detached,,,,,"337-S-Prospect-St,-Marion,-OH-43302",1.0,4.0,2392.0
+150,Contemporary,True,Central,Other,,2.0,True,Forced Air,Asphalt,5.0,,Slab / Mat / Raft,1.0,True,Attached,1.0,,,,"1827-Red-Elm,-San-Antonio,-TX-78227",2.0,3.0,1268.0
+151,Raised Ranch,True,Commercial,Wood Shingle,,1.0,True,Heat Pump,,7.0,,,1.0,True,Garage,2.0,,,,"5-Vickilee-Dr,-Wrightsville,-PA-17368",1.5,3.0,1520.0
+152,,,,,,,,,,,,,,,,,,,,"668-Lpga-Blvd,-Apt-1203,-Daytona-Beach,-FL-32117",,,
+153,,,,,,,,,,,,,,,,,,,,"125-N-Saxony-Dr,-Olathe,-KS-66061",,,
+154,,,,,,,,,,,,,,,,,,,,"County-4470-Rd,-Lot-1,-Ozone,-AR-72854",,,
+155,,,,Wood,True,,True,Forced Air,Composition Shingle,,Single,Footing,1.0,True,Mixed,,,,,"1160-Se-40th-Ave,-Hillsboro,-OR-97123",2.0,3.0,1499.0
+156,Condo / Apartment,True,Central,Stucco,,2.0,True,Central,Composition Shingle,,,,1.0,,,,,,,"12313-Foxmoor-Peak-Dr,-Riverview,-FL-33579",2.5,2.0,1255.0
+157,,,,,,,,,,,,,,,,,,,,"PO-Box-2471,-Columbia,-SC-29202",,,
+158,Conventional,True,Central,Brick,True,2.0,True,Central,,,,,1.0,True,Garage,,,,,"11911-Wake-Bluff-Dr,-Raleigh,-NC-27614",3.0,,4018.0
+159,,,,Stucco,,1.0,True,,Concrete,,,,,True,Garage,2.0,True,Community Pool,,"4065-E-Erie-St,-Unit-102,-Gilbert,-AZ-85295",2.0,3.0,1308.0
+160,,True,Commercial,Combination,,1.0,True,Forced Air,Shingle,7.0,,OTHER,1.0,True,Attached,,,,,"22262-Buffalo-Ave,-Port-Charlotte,-FL-33952",2.0,3.0,2320.0
+161,,,,,,,,,,,,,,,,,,,,"728-Ocean-Ave,-Monterey,-CA-93940",1.0,2.0,
+162,,,,Brick,,1.0,,,,9.0,,,,,,,True,,,"106-Sugarcreek-Ct,-Grovetown,-GA-30813",2.0,3.0,2938.0
+163,Condo / Apartment,True,Central,Brick,,1.0,True,Forced Air,,4.0,,,,,,,,,,"361-17th-St-NW,-Unit-1016,-Atlanta,-GA-30363",2.0,2.0,1121.0
+164,,,,Stucco,,1.0,,,Shingle,,,Slab / Mat / Raft,1.0,,,,,,,"221-W-Vine-St,-Bartow,-FL-33830",2.0,3.0,1160.0
+165,Single Story,,,Siding,True,1.0,True,Baseboard,Composition Shingle,,Single,,1.0,True,Detached,,,,,"3569-E-Portland-Ave,-Tacoma,-WA-98404",1.0,3.0,1196.0
+166,,,,,,,,,,,,,,,,,,,,"3130-Mangum-Rd,-Apt-39,-Houston,-TX-77092",,,
+167,Condo / Apartment,True,Central,Aluminum / Vinyl Siding,,1.0,True,Central,,,,,1.0,True,Carport,3.0,,,,"26350-Cat-Tail-Dr,-Unit-203,-Galveston,-TX-77554",2.0,3.0,1427.0
+168,Split Level,True,Central,Wood Siding,,2.0,True,Central,Metal,,,,1.0,,,,,,,"10512-Woodstock-Rd,-Odessa,-FL-33556",2.0,5.0,2904.0
+169,,,,,,,,,,,,,,,,,,,,"520-Sandra-Dr,-Oxford,-OH-45056",2.5,4.0,2390.0
+170,Conventional,True,Central,Aluminum / Vinyl Siding,True,2.0,True,Central,,6.0,,,1.0,,,,,,,"1697-Village-Ave,-Garnet-Valley,-PA-19060",3.0,3.0,3236.0
+171,,,,Brick,,1.0,True,Forced Air,Asphalt,,,,1.0,True,Detached,1.0,,,,"12389-Wade-St,-Detroit,-MI-48213",1.0,,951.0
+172,Bungalow,True,Central,Brick / Stone,,1.0,,,Shingle,,,,1.0,True,Detached,2.0,,,,"3713-W-56th-Pl,-Chicago,-IL-60629",1.0,3.0,1040.0
+173,,True,Wall,Brick,,,,,,4.0,,,1.0,,,,,,,"14601-Keystone-Ave,-Apt-C1,-Midlothian,-IL-60445",1.0,2.0,
+174,,True,Refrigeration,Wood,,1.0,True,Forced Air,Other,6.0,,,1.0,True,Garage,2.0,,,,"8413-S-20th-St,-Phoenix,-AZ-85042",2.0,,1209.0
+175,,,,,,,,,,,,,,,,,,,,"1500-Speight-Ave-Apt-C,-Waco,-TX-76706",,,
+176,,,,,,,,,,,,,,,,,,,,"38-Pheasant-Run,-Old-Tappan,-NJ-07675",3.0,3.0,
+177,,,,,,,,,,,,,,,,,,,,"131-N-Grant-Ave,-Apt-1,-American-Fork,-UT-84003",,,
+178,,True,Central,Stone,True,2.0,True,Central,Metal,,Masonry,Slab / Mat / Raft,1.0,True,Mixed,,,,,"10-Mira-Loma,-New-Braunfels,-TX-78130",3.0,,4478.0
+179,,True,Commercial,Masonry,,2.0,True,,,,,,1.0,,,,True,,Average,"2861-Thaxton-Dr,-Apt-48,-Palm-Harbor,-FL-34684",,,1390.0
+180,Two Family,True,Commercial,Masonry,,2.0,,,Tar & Gravel,,,,2.0,True,Detached,,,,,"4120-W-Cullerton-St,-Chicago,-IL-60623",2.0,6.0,2332.0
+181,,,,,,,,,,,,,,,,,,,,"11625-W-Atlantic-Blvd,-Apt-36,-Coral-Springs,-FL-33071",,,
+182,Contemporary,True,Central,Stucco,,1.0,True,Central,Composition Shingle,,,,1.0,,,,,,,"3403-N-Garrison-St,-Tampa,-FL-33619",2.0,3.0,1410.0
+183,Ranch / Rambler,True,Central,Wood,,1.0,True,Central,Asphalt,,,,1.0,True,Attached,2.0,,,,"23W255-Woodcroft-Dr,-Glen-Ellyn,-IL-60137",2.0,,1674.0
+184,,,,,,,,,,,,,,,,,,,,"6940-Harding-Ave,-Apt-4,-Miami-Beach,-FL-33141",,,
+185,Historical,,,OTHER,True,2.0,True,Gas,Asphalt,8.0,,Retaining Wall,1.0,,,,,,,"366-S-Saint-Clair-St,-Painesville,-OH-44077",1.0,3.0,1788.0
+186,,,,,,,,,,,,,,,,,,,,"29141-Us-Hwy,-19-N-Unit-80,-Clearwater,-FL-33761",2.0,2.0,1206.0
+187,,,,,,,,,,,,,,,,,,,,"163-Westpoint-Dr,---170,-Carlisle,-PA-17013",3.0,3.0,1562.0
+188,,True,Commercial,Other,,1.0,True,Central,Tile,,,OTHER,1.0,True,Attached,2.0,True,"Pool, Gunite",,"1718-E-Primera-Dr,-Casa-Grande,-AZ-85122",2.0,4.0,1735.0
+189,Other,,,Wood,True,1.0,True,Forced Air,Composition Shingle,,,OTHER,1.0,True,Detached,1.0,,,,"1203-Se-53rd-Ave,-Portland,-OR-97215",1.5,2.0,1604.0
+190,,,,Siding,,1.0,,,Shingle,,,Retaining Wall,,,,,,,,"1470-Swamp-Ln,-Geneva,-FL-32732",,,600.0
+191,,,,,,,,,,,,,,,,,,,,"920-Kinderkamack-Rd,-Apt-Rear,-River-Edge,-NJ-07661",,,
+192,Ranch,True,Central,Aluminum / Vinyl Siding,True,1.0,True,Forced Air,,7.0,,,1.0,True,Garage,2.0,,,,"5882-Sir-Edward-Ln,-Florissant,-MO-63033",2.0,3.0,1612.0
+193,Condo / Apartment,,,Brick,,3.0,,,,,,,1.0,,,,,,,"4232-W-Stiles-St,-Philadelphia,-PA-19104",,,1674.0
+194,,True,Central,Brick Veneer,,2.0,True,Central,Composition Shingle,,,Slab / Mat / Raft,1.0,True,Carport,2.0,True,,,"763-Peavy-Rd,-Dallas,-TX-75218",4.0,4.0,4798.0
+195,,True,Commercial,Stucco,,1.0,True,Heat Pump,Fiberglass,,,Slab / Mat / Raft,1.0,,,,,,,"8306-Sw-59th-Ter,-Ocala,-FL-34476",3.0,4.0,2549.0
+196,,,,,,,,,,,,,,,,,,,,"414-E-Pine-St,-Apt-212,-Orlando,-FL-32801",,,
+197,,,,Wood,,1.0,,,,,,,,True,Garage,,,,,"637-Preston-St,-Columbus,-TX-78934",,,910.0
+198,,,,,,,,,,,,,,,,,,,,"3207-Merrick-Dr,-Peachtree-City,-GA-30269",,,
+199,Condo / Apartment,True,Central,Concrete Block,,,True,Forced Air,Roll Composition,,,,3.0,,,,,,,"640-N-Park-Ave,-Apt-29,-Winter-Park,-FL-32789",1.0,1.0,539.0
+200,,,,,,,,,,,,,,,,,,,,"PO-Box-293,-Surfside,-CA-90743",,,
+201,,,,,,,,,,,,,,,,,,,,"3893-Big-Mountain-Eagle-302-Rd,-Unit-Morning,-Whitefish,-MT-59937",2.0,2.0,1046.0
+202,,,,,,,,,,,,,,,,,,,,"3400-Stevenson-Blvd,-Apt-B32,-Fremont,-CA-94538",,,
+203,,,,,,,,,,,,,,,,,,,,"21-Woodlee-Rd,-Apt-206,-Staunton,-VA-24401",,,
+204,,,,,,,,,,,,,,,,,,,,"950-Allen-Ave,-Donora,-PA-15033",,,
+205,,True,Central,Concrete Block,,,True,Central,,6.0,,Slab / Mat / Raft,,True,Garage,1.0,,,,"5205-Allen-St,-Unit-G,-Houston,-TX-77007",3.5,3.0,2036.0
+206,,,,,,,,,,,,,,,,,,,,"2278-Baldwin-Mill-Rd,-Fallston,-MD-21047",5.0,7.0,5866.0
+207,,,,,,,,,,,,,,,,,,,,"214-Election-St,-Benton,-IL-62812",,,
+208,,,,,,,,,,,,,,,,,,,,"10796-Sw-24th-St,-Miami,-FL-33165",,,
+209,,,,,,,,,,,,,,,,,,,,"6101-W-Business-83,-Lot-57,-Harlingen,-TX-78552",,,
+210,Split Entry,,,Wood Siding,True,2.0,True,Forced Air,Composition Shingle,5.0,,Crawl / Raised,1.0,True,Attached,4.0,,,,"20112-10th-Dr-SE,-Bothell,-WA-98012",3.0,3.0,1100.0
+211,,,,,,,,,,,,,,,,,,,,"250-Martins-Lndg,-Apt-110,-North-Reading,-MA-01864",1.0,1.0,1058.0
+212,Split Level,,,Wood,True,1.0,True,Forced Air,Composition Shingle,,,OTHER,1.0,True,Attached,2.0,,,,"18959-E-Montana-Dr,-Aurora,-CO-80017",2.0,4.0,1307.0
+213,,,,,,,,,,,,,,,,,,,,"34-Northport-Ave,-Belfast,-ME-04915",,,
+214,,,,,,,,,,,,,,,,,,,,"Sparks-Mill-At-Rt-213-N-Church-Hill-Rd,-Centreville,-MD-21617",,,
+215,,,,,,,,,,,,,,,,,,,,"51-Walnut-St,-Apt-3,-Waterbury,-CT-06702",,,
+216,,,,,,,,,,,,,,,,,,,,"1333-Heulu-St,-Apt-903,-Honolulu,-HI-96822",1.5,1.0,869.0
+217,Bungalow,True,Central,Masonry,,1.0,,,Shingle (Not Wood),,,,1.0,True,Garage,,,,,"12526-S-Lowe-Ave,-Chicago,-IL-60628",2.0,3.0,1212.0
+218,,True,Central,,,,True,Central,,7.0,,,,True,Attached,1.0,,,,"7748-Danube-St,-Indianapolis,-IN-46239",2.5,3.0,1672.0
+219,Condo / Apartment,True,Commercial,Brick,True,2.0,True,Hot Water,Metal,8.0,,,1.0,,,,,,,"454-Randolph-St-NW,-Washington,-DC-20011",2.0,4.0,1330.0
+220,,True,Central,Siding,,1.0,,,Composition Shingle,,,Footing,1.0,True,Garage,,,,,"3073-Bayshore-Dr,-Tallahassee,-FL-32309",,,1329.0
+221,,,,,,,,,,,,,,,,,,,,"43531-Acacia-Ave,-Spc-9,-Hemet,-CA-92544",,,
+222,,,,,,,,,,,,,,,,,,,,"3913-Roan-Ct-W,-West-Palm-Beach,-FL-33403",,,
+223,Raised Ranch,True,Central,Brick Veneer,,1.0,True,Heat Pump,Composition Shingle,,,Footing,1.0,True,Garage,2.0,,,,"1313-Robinhood-Rd,-Wilmington,-NC-28401",3.0,2.0,1156.0
+224,,True,Central,Brick Veneer,True,1.0,True,Central,Composition Shingle,,Prefab,Slab / Mat / Raft,1.0,True,Attached,2.0,,,,"6991-Raburn-Rd,-Pensacola,-FL-32526",2.0,3.0,2158.0
+225,,True,Commercial,Vinyl,,1.0,True,Forced Air,Asphalt,,,Retaining Wall,1.0,True,Garage,,,,,"316-Reed-Rd,-New-Market,-AL-35761",1.0,,1414.0
+226,,,,Aluminum / Vinyl Siding,True,2.0,True,Steam,Asphalt,11.0,,,2.0,,,,,,,"836-Belmont-St,-Watertown,-MA-02472",2.0,5.0,2629.0
+227,,,,,,,,,,,,,,,,,,,,"PO-Box-5109,-Anaheim,-CA-92814",,,
+228,,True,,Aluminum / Vinyl Siding,True,1.0,True,,,,Single,,1.0,,,,,,,"123-Stoneybrook-Rd,---B,-Salisbury,-NC-28147",2.5,,1456.0
+229,,,,,,,,,,,,,,,,,,,,"2905-Mitchellville-Rd,-Ste-102,-Bowie,-MD-20716",,,
+230,,True,Central,,,1.0,True,Central,,7.0,,,1.0,True,Attached,2.0,,,,"332-Wilson-Way,-Chowchilla,-CA-93610",1.0,3.0,1186.0
+231,,,,,,,,,,,,,,,,,,,,"1115-Cordova-St,-Apt-117,-Pasadena,-CA-91106",1.0,1.0,753.0
+232,,True,Commercial,Brick,True,1.0,True,Forced Air,Metal,,,Retaining Wall,1.0,True,Garage,,,,,"796-Mckee-Rd,-Harvest,-AL-35749",2.0,,2347.0
+233,Modern,True,Central,,True,1.0,True,Central,Wood Shingle,8.0,,,1.0,True,Attached,2.0,,,,"11840-Calabash-Ave,-Fontana,-CA-92337",2.0,4.0,1971.0
+234,,True,Central,Stucco,,2.0,,,Tile,,,Slab / Mat / Raft,1.0,True,Garage,,,,,"1703-Sw-101st-Way,-Miramar,-FL-33025",2.0,2.0,1337.0
+235,Split Level,True,Commercial,OTHER,True,,True,Forced Air,Composition Shingle,8.0,,Block,1.0,True,Garage,,,,,"8019-Hayes-St-NE,-Minneapolis,-MN-55432",3.0,4.0,1345.0
+236,Condo / Apartment,True,Central,,True,1.0,True,Central,Composition Shingle,,,,1.0,True,Carport,,,,,"45546-Aladdin-St,-Apt-D104,-Indio,-CA-92201",1.0,2.0,907.0
+237,,,,Brick,,2.0,True,,,,,,2.0,,,,,,,"1476-Goodfellow-Blvd,-Saint-Louis,-MO-63112",2.0,,2612.0
+238,,,,,,,,,,,,,,,,,,,,"3221-Winding-Rd,-Partlow,-VA-22534",2.0,3.0,2012.0
+239,Condo / Apartment,,,,,43.0,,,,,,,1.0,,,,,,,"240-E-47th-St,-Apt-17B,-New-York,-NY-10017",,,1182.0
+240,,,,,,,,,,,,,,,,,,,,"106-E-Monroe-St,-Pauls-Valley,-OK-73075",2.0,3.0,1560.0
+241,Ranch / Rambler,True,Central,Brick Veneer,True,,True,Heat Pump,Composition Shingle,,,Footing,1.0,True,Attached,1.0,,,,"1037-Bethany-Church-Rd,-Winston-Salem,-NC-27107",2.0,3.0,3102.0
+242,Contemporary,,,Wood,True,2.0,True,Forced Air,Asphalt,,,Pile,1.0,True,Garage,2.0,,,,"201-E-27th-St,-Long-Beach-Township,-NJ-08008",3.0,,2284.0
+243,,,,,,,,,,,,,,,,,,,,"1160-Great-River-Pkwy-SE,-Lawrenceville,-GA-30045",3.5,4.0,2842.0
+244,Split Level,True,Central,Brick / Stone,,2.0,,,Shingle,,,,1.0,True,Attached,2.0,,,,"8950-Timothy-Ct,-Orland-Park,-IL-60462",2.0,3.0,1442.0
+245,Ranch / Rambler,True,Wall,Frame / Vinyl Siding,,1.0,True,Floor / Wall,Roll Composition,4.0,,Crawl / Raised,1.0,True,Detached Garage,1.0,,,,"1027-Sw-28th-St,-Oklahoma-City,-OK-73109",1.0,2.0,1080.0
+246,,,,,,,,,,,,,,,,,,,,"2008-Julia-Ave,-Henderson,-NC-27536",1.0,2.0,648.0
+247,Split Level,True,Central,Wood,True,2.0,True,Central,,,Masonry,,1.0,True,Attached,,,,,"3675-Chimney-Ridge-Ct,-Ellenwood,-GA-30294",2.0,3.0,1419.0
+248,,,,Wood,,1.0,,,,,,,1.0,,,,,,,"29-Quaker-Rd,-Pennsville,-NJ-08070",,,1404.0
+249,Conventional,,,,,1.0,True,Central,,7.0,,,1.0,True,Garage,1.0,,,,"11255-Fairford-Ave,-Norwalk,-CA-90650",3.0,4.0,1934.0
+250,Single Story,True,Central,Stucco,True,1.0,True,Forced Air,Tile,6.0,,,1.0,True,Attached,1.0,,,,"8217-Aylesbury-Ave,-Las-Vegas,-NV-89129",2.0,3.0,1307.0
+251,Townhouse,True,Central,Brick,True,2.0,True,Central,Asphalt,,,,1.0,True,Attached,2.0,,,,"22W517-Parkview-Dr,-Glen-Ellyn,-IL-60137",3.0,3.0,2058.0
+252,Conventional,True,Commercial,Aluminum / Vinyl Siding,True,2.0,True,Heat Pump,Composition Shingle,,,,1.0,True,Attached Garage,1.0,,,,"4286-Mary-Ridge-Dr,-Randallstown,-MD-21133",3.0,,2204.0
+253,Duplex,,,,,2.0,,,,,,,2.0,,,,,,,"1141-Norton-Dr,-Far-Rockaway,-NY-11691",,,2450.0
+254,,True,Refrigeration,Wood,,1.0,True,Forced Air,Other,9.0,,,1.0,True,Garage,2.0,,,,"3725-W-Nancy-Ln,-Phoenix,-AZ-85041",3.0,5.0,2634.0
+255,,,,,,,,,,,,,,,,,,,,"3490-Trophy-Lake-Pl,-Pagosa-Springs,-CO-81147",,,
+256,,,,,,,True,Central,,,,,1.0,,,,,,,"477-Madeline-Dr,-Pasadena,-CA-91105",3.0,3.0,2726.0
+257,Ranch,True,Central,Wood,True,1.0,True,Forced Air,Composition Shingle,,,OTHER,1.0,True,Attached,2.0,,,,"21531-E-Aberdeen-Dr,-Centennial,-CO-80015",3.0,3.0,1382.0
+258,Condo / Apartment,,,Brick,,2.0,,,,6.0,,,1.0,True,Underground / Basement,1.0,,,Average,"5637-Ridgewood-St,-Philadelphia,-PA-19143",1.0,3.0,1024.0
+259,,True,Refrigeration,Wood,,1.0,True,Forced Air,Asphalt,5.0,,,1.0,True,Garage,2.0,,,,"17806-N-134th-Dr,-Sun-City-West,-AZ-85375",2.0,,1810.0
+260,Conventional,True,Commercial,Aluminum / Vinyl Siding,True,2.0,True,Radiant,Metal,,,,1.0,True,Detached Garage,2.0,,,,"82-S-Broadway,-Frostburg,-MD-21532",4.0,,3116.0
+261,Condo / Apartment,,,Stucco,,1.0,True,,,,,,,,,,,,,"1255-N-Arizona-Ave,-Unit-1114,-Chandler,-AZ-85225",3.0,3.0,2059.0
+262,Townhouse,True,Central,Brick,True,2.0,True,Forced Air,Composition Shingle,5.0,Gas Log,Slab,1.0,True,Attached,1.0,,,,"805-Parkland-Pl,-Glen-Allen,-VA-23059",2.5,3.0,1700.0
+263,,,,Concrete Block,,1.0,,,Other,,,,1.0,,,,,,,"836-85th-St,-Miami-Beach,-FL-33141",2.0,3.0,1390.0
+264,,,,,,,,,,,,,,,,,,,,"5945-W-Parker-Rd,-Apt-2238,-Plano,-TX-75093",,,
+265,Conventional,True,Central,Aluminum / Vinyl Siding,True,2.0,True,Central,Composition Shingle,7.0,,,1.0,True,Carport,1.0,,,,"4400-Spring-Harbor-Dr,-Millington,-TN-38053",1.5,3.0,2062.0
+266,Conventional,,,,,1.0,True,Floor / Wall,,8.0,,,1.0,True,Garage,1.0,,,,"1217-S-Gertruda-Ave,-Redondo-Beach,-CA-90277",2.0,2.0,1489.0
+267,,True,Central,,True,1.0,True,Heat Pump,,7.0,,,1.0,True,Attached,,,,,"17609-Fox-Ct,-Weed,-CA-96094",2.0,3.0,1647.0
+268,,,,,,,,,,,,,,,,,,,,"3440-Highway,-111,-Anacoco,-LA-71403",2.0,4.0,2142.0
+269,,True,Commercial,Aluminum / Vinyl Siding,True,1.0,True,Forced Air,Asphalt,8.0,,Brick,1.0,True,Attached,,,,,"1413-Hunningdon-Woods-Blvd,-Chesapeake,-VA-23320",2.0,4.0,2456.0
+270,,True,Central,Wood,,1.0,True,Gravity,,4.0,,,,,,,,,,"708-S-Benton-St,-Cape-Girardeau,-MO-63703",1.0,2.0,1038.0
+271,,True,Commercial,Combination,,,True,Heat Pump,Composition Shingle,7.0,,Crawl / Raised,,,,,,,,"211-Simsbury-Ln,-Forest,-VA-24551",2.0,3.0,1166.0
+272,Condo / Apartment,,,Wood,,1.0,,,,,,,1.0,,,,,,,"109-Lindsey-Ct,-Franklin-Park,-NJ-08823",,,1052.0
+273,,True,Central,Stucco,,2.0,True,Central,Asphalt,,,Slab / Mat / Raft,1.0,True,Attached,,,,,"2517-Pineapple-Ave,-Melbourne,-FL-32935",3.0,3.0,3120.0
+274,,True,Central,Other,True,1.0,True,Steam,Asphalt,7.0,Single,Slab / Mat / Raft,1.0,True,Garage,,,,,"9514-Pondside-Ln,-Charlotte,-NC-28213",2.0,3.0,1756.0
+275,,True,Package,Concrete Block,,1.0,True,,Composition Shingle,,,Footing,1.0,True,Garage,,,,,"2991-Marshfield-Preserve-Way,-Kissimmee,-FL-34746",2.0,3.0,1968.0
+276,,,,,,,,,,,,,,,,,,,,"2414-1-2-E-10th-St,-Indianapolis,-IN-46201",,,
+277,Bungalow,True,Commercial,Masonry,,1.0,,,Shingle (Not Wood),,,,1.0,True,Detached Garage,1.0,,,,"4342-S-Saint-Louis-Ave,-Chicago,-IL-60632",1.0,2.0,1290.0
+278,,,,,,,,,,,,,,,,,,,,"2323-Southern-Oak-Dr,-Apt-2078,-Arlington,-TX-76011",,,
+279,Ranch,,,Wood Shingle,,1.0,True,Central,Asphalt,,,,1.0,,,,,,,"7817-Opal-Dr,-Chattanooga,-TN-37416",2.0,,1750.0
+280,,True,Commercial,,,1.0,True,Gas,,4.0,,Concrete,,True,Attached Garage,2.0,,,,"3736-N-Beehive-St,-Coeur-D-Alene,-ID-83815",1.0,2.0,905.0
+281,Split Level,True,Commercial,OTHER,True,1.0,True,Forced Air,Asphalt,7.0,,,1.0,True,Basement,,,,,"20-Walts-Hl,-Bloomfield,-CT-06002",2.0,3.0,1950.0
+282,,,,,,1.0,,,,6.0,,,1.0,True,Garage,,,,,"1181-60th-Ave,-Oakland,-CA-94621",2.0,3.0,1368.0
+283,,,,,,,,,,,,,,,,,,,,"PO-Box-279,-Elrama,-PA-15038",,,
+284,,,,,,,,,,,,,,,,,,,,"1100-N-Washington-Ave-Apt-J,-Douglas,-AZ-85607",,,
+285,,,,,,1.0,True,Floor / Wall,,,,,1.0,,,,,,,"1100-W-81st-Pl,-Los-Angeles,-CA-90044",2.0,4.0,1542.0
+286,Split Level,True,Central,Aluminum / Vinyl Siding,,2.0,True,Central,,6.0,,,1.0,True,Basement,2.0,,,"School, Cul-de-sac","13-Milford-Ln,-Glen-Cove,-NY-11542",2.5,3.0,1962.0
+287,,,,,,,,,,,,,,,,,,,,"1601-Ponderosa-Dr,-Jefferson-City,-TN-37725",2.0,2.0,1685.0
+288,Ranch,True,Commercial,Aluminum / Vinyl Siding,True,1.0,True,Forced Air,,,,,1.0,True,Detached,,,,,"34455-Hazelwood-St,-Westland,-MI-48186",1.0,3.0,1105.0
+289,,,,,,1.0,,,Shingle,,,,1.0,,,,,,,"4643-Chetwood-Ln-SW,-Albuquerque,-NM-87105",2.0,3.0,1440.0
+290,,True,Central,Combination,True,1.0,True,Central,Asphalt,,,Slab,1.0,True,Carport,,,,,"6909-Juniper-Rd,-Little-Rock,-AR-72209",2.0,,1396.0
+291,,,,,,2.0,,,,7.0,,,1.0,True,Garage,2.0,,,,"4138-Gregory-St,-Oakland,-CA-94619",2.0,3.0,1687.0
+292,Ranch / Rambler,,,Aluminum / Vinyl Siding,,1.0,True,Forced Air,,,,,1.0,True,Attached Garage,2.0,,,,"147-Westmoreland-Rd,-Whitesboro,-NY-13492",1.0,3.0,1504.0
+293,,,,,,,,,,,,,,True,Attached,,,,,"2130-Park-Vlg,-Denison,-TX-75020",,,2161.0
+294,,True,Central,Stucco,,2.0,True,Forced Air,Composition Shingle,,,,1.0,True,Garage,1.0,True,,,"1372-Carey-Glen-Cir,-Orlando,-FL-32824",2.0,4.0,1457.0
+295,,,,,,,,,,,,,1.0,,,,,,,"21910-Cypress-Dr,-Apt-36L,-Boca-Raton,-FL-33433",2.0,2.0,1216.0
+296,,,,,,,,,,,,,,,,,,,,"1864-E-Rosewood-Ct,-Apt-D,-Ontario,-CA-91764",,,
+297,,,,,,,,,,,,,,,,,,,,"305-Marilyn-Glover-Dr,-Elgin,-OK-73538",2.0,3.0,1800.0
+298,Condo / Apartment,True,Central,Aluminum / Vinyl Siding,True,1.0,True,Central,,,,Raised,1.0,,,,,,,"1301-Hillbrow-Ln,-Apt-204,-Raleigh,-NC-27615",2.0,,1134.0
+299,,True,Central,Brick,,1.0,True,Central,Tar & Gravel,6.0,,Raised,1.0,True,Garage,,,,,"214-Bonnavue-Dr,-Hermitage,-TN-37076",2.0,3.0,1650.0
+300,,,,,,,,,,,,,,,,,,,,"267-Panorama-Trl,-Rochester,-NY-14625",2.5,4.0,2985.0
+301,Split Level,True,Commercial,Brick,True,2.0,True,Forced Air,Composition Shingle,7.0,,,1.0,True,Attached Garage,1.0,,,,"1245-Wild-Hawthorn-Way,-Reston,-VA-20194",3.0,3.0,1534.0
+302,,True,Central,Stucco,,2.0,True,Forced Air,Asphalt,,,,,True,OTHER,2.0,True,,,"4846-Lago-Vista-Cir,-Land-O-Lakes,-FL-34639",4.0,,3347.0
+303,,,,,,,,,,,,,,,,,,,,"411-Jasmine-Ave-Apt-B,-Corona-Del-Mar,-CA-92625",1.0,2.0,1000.0
+304,,,,,,,,,,,,,,,,,,,,"126-New-Britain-Ave,-Apt-D2,-Plainville,-CT-06062",,,
+305,,True,Central,,,1.0,True,Central,Composition Shingle,,,Slab,1.0,True,Carport,,,,,"2008-De-Verne-St,-Austin,-TX-78704",1.0,,1094.0
+306,Condo / Apartment,,,,,7.0,,,,,,,1.0,,,,,,,"270-Wallabout-St,-Apt-5B,-Brooklyn,-NY-11206",,,1197.0
+307,,,,,,,,,,,,,,,,,,,,"2302-N-36th-St,-Apt-10,-Phoenix,-AZ-85008",1.0,1.0,800.0
+308,,True,Commercial,Stucco,,1.0,True,Forced Air,Tile,,,,1.0,True,Garage,,True,,,"16313-Braeburn-Ridge-Trl,-Delray-Beach,-FL-33446",3.5,3.0,3772.0
+309,Split Level,,,Wood,True,1.0,True,Forced Air,Composition Shingle,,,OTHER,1.0,True,Attached,,,,,"4224-S-Nucla-Way,-Aurora,-CO-80013",2.5,2.0,1392.0
+310,,,,,,1.0,,,,,,,1.0,,,,,,,"1711-Melrose-Ave,-Irwin,-PA-15642",2.0,3.0,1568.0
+311,Traditional,True,Central,Brick,True,1.0,True,Central,,8.0,,Slab,1.0,True,Attached,2.0,,,,"3834-Landon-Park-Dr,-Katy,-TX-77449",2.0,4.0,2068.0
+312,,True,Central,Brick,,,True,Central,Asphalt,,,Block,,,,,,,,"107-Penny-Dr,-Athens,-GA-30605",4.0,4.0,1599.0
+313,,,,Stucco,,1.0,True,,,,,,,,,,,,,"4519-N-Village-Pkwy,-Litchfield-Park,-AZ-85340",4.0,,4159.0
+314,,,,,,,,,,,,,,,,,,,,"895-Edgewater-Blvd,-Tahlequah,-OK-74464",,,
+315,,True,Central,,,2.0,True,Central,,,,,,,,,,,,"2924-Arbusto,-Grand-Prairie,-TX-75054",,,3541.0
+316,Mobile Home,,,,,,,,,,,,,,,,,,,"6526-Cereus-Ct,-Laredo,-TX-78043",,,
+317,,True,Central,Combination,,1.0,True,Forced Air,Shingle,,,Slab / Mat / Raft,1.0,True,Garage,,,,,"804-Arbor-Hill-Cir,-Minneola,-FL-34715",2.0,3.0,1218.0
+318,Cape Cod,,,Wood Siding,,1.0,True,Space / Suspended,Asphalt,,,,1.0,,,,,,,"10-Sampson-Ave,-Edgartown,-MA-02539",1.0,1.0,1194.0
+319,,,,,,,,,,,,,,,,,,,,"W335S5050-Fox-Hollow-Dr,-Dousman,-WI-53118",2.5,4.0,2600.0
+320,,True,Central,Concrete Block,,1.0,True,Central,Composition Shingle,,,,1.0,True,Garage,1.0,,,,"7501-Pond-View-Ct,-Tampa,-FL-33615",2.0,3.0,1340.0
+321,,,,,,,,,,,,,,,,,,,,"3202-Morganford-Rd,-Saint-Louis,-MO-63116",,,
+322,,True,Central,Aluminum / Vinyl Siding,True,1.0,True,Forced Air,Asphalt,,,Slab / Mat / Raft,1.0,True,Garage,,,,,"107-S-Smallwood-Pl,-Charlotte,-NC-28208",1.5,3.0,1040.0
+323,,,,Stucco,True,2.0,True,Hot Water,,11.0,,,1.0,True,Garage,1.0,,,,"419-Morris-Ave-SE,-Grand-Rapids,-MI-49503",5.0,5.0,3724.0
+324,,True,Central,Stucco,,1.0,True,Forced Air,Asphalt,,,,,True,Attached,2.0,,,,"10415-Hyannisport-Loop,-San-Antonio,-FL-33576",2.0,,1962.0
+325,,,,Combination,,1.0,True,Forced Air,Composition Shingle,6.0,,Other,,True,Mixed,3.0,,,,"235-Old-Bethel-Church-Rd,-Winchester,-VA-22603",1.0,3.0,1060.0
+326,,True,Refrigeration,Wood,,1.0,True,Forced Air,Other,6.0,,,1.0,True,Garage,2.0,,,,"1221-W-Butler-Dr,-Chandler,-AZ-85224",2.0,,1682.0
+327,,,,Wood,,2.0,,,,,,,1.0,True,Garage,1.0,,,,"10-Lexington-Ave,-Cranford,-NJ-07016",1.0,4.0,1320.0
+328,Mobile Home,True,Central,Other,,1.0,True,Forced Air,Asphalt,,,,,True,Garage,,,,,"37220-Neukom-Ave,-Zephyrhills,-FL-33541",2.0,,1802.0
+329,,,,,,,,,,,,,,,,,,,,"8000-W-Broward-Blvd,-Ste-719,-Plantation,-FL-33388",,,
+330,,,,,,,,,,,,,,,,,,,,"6041-E-Freshman-Dr,-Saginaw,-MI-48604",2.0,3.0,1344.0
+331,,,,,,,,,,,,,,,,,,,,"Harold-Cemetery-Rd,-Greeneville,-TN-37745",,,
+332,Ranch,True,Commercial,,True,1.0,True,Forced Air,,,,,1.0,True,Garage,1.0,,,,"881-Lincoln-Rd,-Grosse-Pointe,-MI-48230",2.0,3.0,1204.0
+333,Split Foyer,True,Commercial,Composition,True,,True,Forced Air,Asphalt,11.0,Prefab,OTHER,1.0,True,Attached,,,,,"6808-Stratford-Ct,-Saint-Paul,-MN-55125",2.0,5.0,1050.0
+334,,,,,,,,,,7.0,,,1.0,True,Garage,,,,,"805-Thackeray-Trl,-Oconomowoc,-WI-53066",2.0,3.0,1664.0
+335,Cape Cod,True,Central,Wood,True,1.0,True,Forced Air,,7.0,,,1.0,True,Basement,2.0,,,,"5219-Byers-Rd,-Alpharetta,-GA-30022",2.5,3.0,1705.0
+336,,,,,,,,,,,,,,,,,,,,"334-Huntcliff-Village-Ct,-Atlanta,-GA-30350",,,
+337,Bi-Level,True,Central,Combination,True,1.0,True,Central,Asphalt,,2 Story,OTHER,1.0,True,Built-in,,,,,"2912-Elkmont-Ct,-Little-Rock,-AR-72204",2.0,,1795.0
+338,Townhouse,True,Central,Stucco,,2.0,True,Forced Air,Tile,6.0,,,1.0,True,Built-in,1.0,,,,"1029-Nevada-Sky-St,-Las-Vegas,-NV-89128",2.5,3.0,1320.0
+339,,,,,,,,,,,,,,,,,,,,"720-N-Eureka-St,-Redlands,-CA-92374",,,
+340,,,,,,,,,,,,,,,,,,,,"13001-116th-Ln,-Largo,-FL-33778",,,
+341,,True,Window,Brick Veneer,,1.0,True,Gas,Composition Shingle,,,Slab / Mat / Raft,1.0,True,Attached,1.0,,,,"611-E-Fairmeadows-Dr,-Duncanville,-TX-75116",1.5,3.0,1047.0
+342,,,,,,,,,,,,,,,,,,,,"406-Sw-15th-Pl,-Cape-Coral,-FL-33991",,,
+343,,,,,,,,,,,,,,,,,,,,"2600-N-2700-W,-Plain-City,-UT-84404",,0.0,
+344,Traditional,True,Central,Wood,True,2.0,True,Central,,,Masonry,Concrete,1.0,True,Attached,2.0,,,,"3145-Red-Oak-Trl,-Decatur,-GA-30034",2.5,4.0,3136.0
+345,,,,,,,,,,,,,,,,,,,,"1315-Henley-St,-Apt-1006,-Naples,-FL-34105",2.0,3.0,1438.0
+346,,True,Central,Stucco,,2.0,True,Forced Air,Composition Shingle,,,,1.0,True,Garage,,,,,"2196-Chandlers-Walk-Ln,-Jacksonville,-FL-32246",3.0,5.0,2711.0
+347,Mobile Home,True,Central,Other,True,1.0,True,Forced Air,Asphalt,,,,1.0,True,Detached,,,,,"35348-Barton-Dr,-Zephyrhills,-FL-33541",2.0,4.0,1848.0
+348,,True,Package,Stucco,True,1.0,True,Package,Composition Shingle,,Prefab,Footing,1.0,True,Garage,4.0,True,,,"2824-Longleaf-Ct,-Kissimmee,-FL-34746",3.5,4.0,2560.0
+349,,,,,,,,,,,,,,,,,,,,"638-N-Orange-Dr,-Los-Angeles,-CA-90036",,,
+350,,,,,,,,,,,,,,,,,,,,"1590-Sw-Falmouth-Ave,-Port-Saint-Lucie,-FL-34953",,,
+351,,,,,,,,,,,,,,,,,,,,"County-Rds---H-And-Road-30-Rd,-Brush,-CO-80723",,,
+352,,True,Central,Aluminum / Vinyl Siding,True,2.0,True,Solar,Shingle,,,Retaining Wall,1.0,True,Garage,2.0,True,,,"1901-Lakeshore-Cir,-Longwood,-FL-32750",2.0,4.0,2632.0
+353,,,,,,,,,,,,,,,,,,,,"1609-W-Schunior-St,-Apt-1406,-Edinburg,-TX-78541",1.0,1.0,645.0
+354,,True,Central,Brick,,1.0,True,Central,Shingle,,,Slab / Mat / Raft,,True,Mixed,,,,,"2022-Edgewood-Dr,-Bridgeport,-TX-76426",1.0,,1479.0
+355,Mobile Home,True,Window,Metal,,1.0,,,Metal,,,,,,,,,,,"4980-Community-Cir,-Milton,-FL-32583",2.0,3.0,858.0
+356,,,,,,,,,,,,,,,,,,,,"239-Fowler-Cir,-Dobson,-NC-27017",,,
+357,,True,Central,Brick,,,True,Central,Composition Shingle,,,Slab / Mat / Raft,,True,Garage,2.0,,,,"502-Crater-Lake-Dr,-League-City,-TX-77573",2.5,,2868.0
+358,,,,OTHER,,2.0,True,Forced Air,Asphalt,,,,1.0,True,Garage,,,,,"63-Maplecrest-Cir,-Jupiter,-FL-33458",2.0,3.0,1620.0
+359,,,,,,,,,,,,,,,,,,,,"655-N-Santa-Fe-Dr,-Unit-317,-Denver,-CO-80204",1.0,1.0,740.0
+360,,,,,,,,,,,,,,,,,,,,"6707-Utsa-Blvd,-Apt-4402,-San-Antonio,-TX-78249",,,
+361,Bungalow,True,Commercial,Aluminum / Vinyl Siding,,1.0,True,Forced Air,,8.0,,,1.0,True,Detached,,,,,"6428-W-Locust-St,-Milwaukee,-WI-53210",1.5,4.0,1454.0
+362,Condo / Apartment,True,Commercial,Brick / Stone,,1.0,True,,,,,,1.0,True,Carport,,,,Average,"275-114th-Ave-N,-Unit-6,-Saint-Petersburg,-FL-33716",1.0,2.0,885.0
+363,,,,Stucco,,1.0,,,Shingle,,,OTHER,1.0,True,Attached,,,,,"251-Birch-Ln,-Lakeland,-FL-33813",2.0,4.0,2280.0
+364,,True,Central,Concrete,True,1.0,,,,5.0,,,,True,Attached,,,,,"5885-Ledro-Ln,-Myrtle-Beach,-SC-29577",2.0,2.0,1702.0
+365,,,,,,,,,,,,,,,,,,,,"183-Jerusalem-Rd,-Cohasset,-MA-02025",,,
+366,,True,Central,,,2.0,,,,,,,,,,,,,,"301-Arbor-Ct,-Bolingbrook,-IL-60440",1.5,,1262.0
+367,,,,,,,,,,,,,,,,,,,,"325-Marche-Chase-Dr,-Apt-139,-Eugene,-OR-97401",,,
+368,,,,,,,,,,,,,,,,,,,,"120-N-Everett-High-Rd,-Maryville,-TN-37804",1.5,3.0,1234.0
+369,,,,Brick,True,3.0,True,Hot Water,Metal,4.0,,,1.0,,,,,,,"1352-27th-St-NW,-Washington,-DC-20007",2.5,2.0,1734.0
+370,,,,,,,,,,,,,,,,,,,,"21185-County-Rd,-81-NW,-Big-Lake,-MN-55309",1.0,3.0,1580.0
+371,Split Level,True,Central,Wood Shingle,,1.0,True,Forced Air,,5.0,,,,,,,,,,"750-Noonan-Rd,-York,-PA-17404",1.0,3.0,874.0
+372,,,,,,,,,,,,,,,,,,,,"45658-Ford-Rd,-Canton,-MI-48187",,,
+373,,,,,,,,,,,,,,,,,,,,"PO-Box-554,-Fruitland-Park,-FL-34731",,,
+374,Split Level,True,Commercial,Brick,True,2.0,True,Forced Air,Composition Shingle,10.0,,,1.0,True,Mixed,2.0,,,,"7213-Idylwood-Ct,-Falls-Church,-VA-22043",2.5,5.0,2332.0
+375,,,,,,,,,,,,,,,,,,,,"8100-W-Oakton-St,-Apt-203,-Niles,-IL-60714",,,
+376,,,,,,,,,,,,,1.0,True,Garage,2.0,True,Heated Pool,,"706-Yarmouth-Ct,-San-Diego,-CA-92109",2.5,2.0,980.0
+377,,,,,,,,,,,,,,,,,,,,"513-1st-Ave,-New-Bern,-NC-28560",,,
+378,,True,Central,Concrete Block,,1.0,True,Central,,7.0,,Slab / Mat / Raft,,True,Garage,,,,,"4607-Westgarden-Pl,-Katy,-TX-77449",2.0,3.0,1459.0
+379,,True,Central,Aluminum / Vinyl Siding,,2.0,True,Heat Pump,,,,Slab / Mat / Raft,,,,,,,,"8123-Merryvale-Ln,-Charlotte,-NC-28214",2.5,4.0,2129.0
+380,Conventional,True,Central,Brick,,2.0,True,Central,Composition Shingle,,,Slab / Mat / Raft,,True,Garage,2.0,,,,"7811-Amber-Ct,-Texas-City,-TX-77591",3.0,4.0,2538.0
+381,,True,Central,Brick Veneer,True,2.0,True,Central,Aluminum,,,Pier / Post & Beam,1.0,True,Attached,2.0,,,,"3201-Wendover-Rd,-Dallas,-TX-75214",3.5,4.0,5338.0
+382,Conventional,True,Central,Brick Veneer,,1.0,True,Central,,3.0,,,1.0,,,,,,,"109-N-Main-St,-Apt-1203,-Memphis,-TN-38103",1.0,1.0,741.0
+383,,,,,,,,,,,,,,,,,,,,"231-26th-Ave-E,-Apt-208,-Seattle,-WA-98112",,,
+384,,,,,,,,,,,,,,,,,,,,"7036-S-Winchester-Ave,-Chicago,-IL-60636",,,
+385,,True,Commercial,Wood,,1.0,True,Forced Air,Metal,8.0,,Slab,2.0,True,Mixed,5.0,True,,,"7401-Plumosa-Ln,-Fort-Pierce,-FL-34951",2.0,3.0,1750.0
+386,,,,,,,,,,,,,,,,,,,,"23-Black-Bear-Rd,-Unit-509,-Waterville-Valley,-NH-03215",1.0,1.0,700.0
+387,,,,,,,,,,,,,,,,,,,,"3015-Cielo-Ct,-Santa-Fe,-NM-87507",1.0,12.0,3429.0
+388,,,,,,,,,,,,,,,,,,,,"112-Church-St,-Ste-J,-Elkin,-NC-28621",,,
+389,,,,,,,,,,,,,,,,,,,,"1541-Mcclaren-Dr,-Carmichael,-CA-95608",,,
+390,,,,,,,,,,,,,,,,,,,,"42-Park-St,-East-Millinocket,-ME-04430",1.5,3.0,1480.0
+391,Ranch,True,Central,Aluminum / Vinyl Siding,True,2.0,True,Forced Air,Composition Shingle,,Prefab,Footing,1.0,True,Detached,1.0,,,,"521-Oakside-Pl,-Acworth,-GA-30102",2.5,3.0,1668.0
+392,Ranch / Rambler,True,Commercial,Wood Siding,True,1.0,True,Forced Air,Wood Shake / Shingle,10.0,,Concrete,1.0,True,Attached Garage,2.0,,,,"4650-Centauri-Rd,-Colorado-Springs,-CO-80919",3.0,5.0,2024.0
+393,,True,Central,Concrete Block,,2.0,True,Central,,7.0,,Slab / Mat / Raft,,True,Attached,2.0,,,,"13031-Iris-Garden-Ln,-Houston,-TX-77044",2.5,3.0,1924.0
+394,Duplex,True,Central,Brick Veneer,,1.0,True,Central,Composition Shingle,,,Slab / Mat / Raft,1.0,,,,,,,"1735-Dynasty-Cir,-Glenn-Heights,-TX-75154",4.0,4.0,2220.0
+395,,True,Central,Concrete Block,True,1.0,True,Central,,6.0,,,,,,,,,,"1422-Todville-Rd,-Seabrook,-TX-77586",3.0,4.0,2568.0
+396,Conventional,True,Central,Aluminum / Vinyl Siding,,1.0,True,Central,,5.0,,,1.0,,,,,,,"3709-Venable-Ave,-Charleston,-WV-25304",1.5,2.0,910.0
+397,,,,,,,,,,,,,,,,,,,,"3111-Fairlanes-Blvd,-Apt-144,-Borger,-TX-79007",,,
+398,,True,Commercial,Aluminum / Vinyl Siding,True,1.0,True,Forced Air,,,,OTHER,1.0,True,Attached,2.0,,,,"6809-Midnight-Sun-Dr,-Maineville,-OH-45039",2.0,3.0,1320.0
+399,,,,,,,,,,,,,,,,,,,,"16565-Vanowen-St,-Apt-101,-Van-Nuys,-CA-91406",,,
+400,Conventional,True,Central,Vinyl,,1.0,True,Forced Air,Composition Shingle,,,Stone,1.0,True,Basement,1.0,,,,"1525-Topping-Ave,-Kansas-City,-MO-64126",1.0,1.0,946.0
+401,,True,Central,,,1.0,True,Central,,,,,1.0,True,Garage,2.0,,,,"710-Dove-Creek-Trl,-Southlake,-TX-76092",3.0,4.0,2492.0
+402,,,,,,,,,,,,,,,,,,,,"131G-Taylor-Ave,-Unit-1,-Plymouth,-MA-02360",1.0,3.0,900.0
+403,,,,,,,,,,,,,,,,,,,,"904-Arnett-Dr,-Newport-News,-VA-23608",3.5,5.0,2331.0
+404,,,,,,,,,,,,,,,,,,,,"143-Ranger-Rd,-Wells,-NY-12190",2.0,2.0,931.0
+405,,True,Package,Stucco,True,2.0,True,Floor / Wall,,13.0,,,1.0,True,Attached,2.0,,,,"6831-Lillian-Ln,-Eden-Prairie,-MN-55346",4.0,4.0,3083.0
+406,,,,,,,,,,,,,1.0,,,,,,,"11-Tillie-St,-Bay-Shore,-NY-11706",,,
+407,Townhouse,True,Central,Siding,,2.0,True,Heat Pump,Composition Shingle,3.0,,OTHER,,,,,,,,"9168-Maple-Grove-Dr,-Summerville,-SC-29485",2.0,3.0,1368.0
+408,,,,,,,,,,,,,,,,,,,,"413-Brian-Dr,-Tallmadge,-OH-44278",,,
+409,Ranch / Rambler,True,Central,Brick,,1.0,True,Central,Shingle (Not Wood),5.0,,,1.0,True,Attached Garage,1.0,,,,"423-Dennison-Dr,-West-Mifflin,-PA-15122",1.0,3.0,936.0
+410,,,,,,,,,,,,,,,,,,,,"6847-Canyonpoint-Rd,-Castle-Rock,-CO-80108",,,
+411,Other,,,Asbestos Shingle,,1.0,True,Floor / Wall,Asphalt,5.0,,Pier / Post & Beam,1.0,,,,,,,"202-Bradford,-San-Antonio,-TX-78228",1.0,3.0,986.0
+412,Old Style,True,Wall,Aluminum / Vinyl Siding,True,2.0,True,Central,,4.0,,,1.0,,,,,,,"214-S-9th-St,-Hamilton,-OH-45011",1.0,2.0,750.0
+413,,,,,,,,,,,,,,,,,,,,"3800-W-Irving-Park-Rd,-Unit-2E,-Chicago,-IL-60618",1.0,2.0,700.0
+414,Single Story,True,Central,Concrete Block,True,1.0,True,Forced Air,Built-up (Layered Asphalt),5.0,,,1.0,,,,True,Pool and Hot Tub / Spa,,"2912-Millie-Ave,-Las-Vegas,-NV-89101",2.0,3.0,1761.0
+415,,True,,Aluminum / Vinyl Siding,True,2.0,True,Forced Air,Metal,,,,1.0,True,,,,,,"117-John-St,-Hagerstown,-MD-21740",1.0,,1050.0
+416,,,,,,,,,,,,,,,,,,,,"40-Southwick-Dr,-Bedford,-OH-44146",1.0,2.0,1780.0
+417,,,,,,,,,,,,,,,,,,,,"1094-Avondale-Rd,-South,-Euclid,-OH-44121",1.0,2.0,
+418,,,,,,,,,,,,,,,,,,,,"427-National-Union-Blvd,-Tuckerton,-NJ-08087",1.0,3.0,1056.0
+419,,,,,,,,,,,,,,,,,,,,"2669-Griffin-Ave,-Apt-103,-Los-Angeles,-CA-90031",,,
+420,Conventional,,,,,1.0,True,Floor / Wall,,7.0,,,1.0,True,Garage,1.0,,,,"2016-Broderick-Ave,-Duarte,-CA-91010",1.0,3.0,1084.0
+421,,,,,,,,,,,,,,,,,,,,"11278-Cedar-Beach-Dr-NW,-Oronoco,-MN-55960",2.0,2.0,1912.0
+422,,True,Commercial,Brick,True,1.0,True,Forced Air,Asphalt,5.0,Single,Retaining Wall,1.0,True,Garage,,,,,"442-Hillabee-Dr,-Montgomery,-AL-36117",2.0,,2137.0
+423,,,,,,,,,,,,,,,,,,,,"2400-Parkland-Dr-NE,-Unit-369,-Atlanta,-GA-30324",1.0,1.0,772.0
+424,,True,Central,Brick Veneer,True,1.0,True,Central,,8.0,,Slab / Mat / Raft,,True,Attached,2.0,True,,,"78-E-Crystal-Canyon-Cir,-Spring,-TX-77389",3.0,3.0,3478.0
+425,,,,,,,,,,,,,,,,,,,,"526-Adams-St,-Owosso,-MI-48867",2.0,4.0,2055.0
+426,,,,,,,,,,,,,1.0,,,,,,,"4217-W-76th-St,-Apt-301,-Chicago,-IL-60652",2.0,2.0,1333.0
+427,,,,Brick,True,1.0,True,Central,,5.0,,,1.0,True,Detached,1.0,,,,"3242-Utica-St,-Denver,-CO-80212",2.0,2.0,1040.0
+428,,,,,,,,,,,,,,,,,,,,"6210-Presidential-Ln,-Unit-143,-Sacramento,-CA-95828",2.0,3.0,1344.0
+429,,,,,,,,,,,,,,,,,,,,"13401-Legendary-Dr,-Apt-5108,-Austin,-TX-78727",2.0,2.0,1097.0
+430,Row End or Row Middle,,,Brick,,2.0,True,Central,,7.0,,,1.0,,,,,,,"288-Kent-Rd,-Upper-Darby,-PA-19082",2.0,4.0,1184.0
+431,,True,Central,Metal,,1.0,True,Central,Composition Shingle,,,Slab / Mat / Raft,1.0,True,Carport,1.0,True,Pool and Hot Tub / Spa,,"612-Camino-Dr,-Mesquite,-TX-75149",2.0,3.0,1494.0
+432,Contemporary,True,Central,Stucco,,1.0,True,Central,Composition Shingle,,,,1.0,True,Garage,1.0,,,,"1234-Sweet-Gum-Dr,-Brandon,-FL-33511",2.0,3.0,1424.0
+433,,True,Package,,True,1.0,True,,,,,,,True,Attached,2.0,True,,,"14447-Austin-Creek-Ave,-Bakersfield,-CA-93314",2.5,4.0,2950.0
+434,Condo / Apartment,,,,,,,,,,,,1.0,True,Garage,,,,,"3440-E-Berkshire-Ct,-Unit-C,-Orange,-CA-92869",2.5,2.0,1362.0
+435,,,,,,,,,,,,,,,,,,,,"17770-Seidner-Ave,-Escalon,-CA-95320",,,
+436,,,,,,,,,,,,,,,,,,,,"2159-State-Rte,-131,-Batavia,-OH-45103",2.0,3.0,1641.0
+437,,True,Central,Brick,True,1.0,True,Central,,,,,,True,Basement,2.0,,,,"3306-Pepperhill-Rd,-Lexington,-KY-40502",2.0,,2201.0
+438,,True,Central,Brick,True,2.0,True,Central,Composition Shingle,,,Slab / Mat / Raft,,True,Garage,,,,,"2547-Sandy-Lake-Dr,-Friendswood,-TX-77546",,,4804.0
+439,,True,Refrigeration,Stucco,,1.0,True,Forced Air,Asphalt,7.0,,,1.0,True,Carport,2.0,,,,"9814-N-2nd-Pl,-Phoenix,-AZ-85020",2.0,4.0,1054.0
+440,,,,Brick,True,2.0,True,Forced Air,Asphalt,,Single,,1.0,True,Detached,1.0,,,,"19183-Robson-St,-Detroit,-MI-48235",1.5,,1524.0
+441,,,,,,,,,,,,,,,,,,,,"653-Lindell-Ave,-Apt-1,-Louisville,-KY-40211",,,
+442,,,,,,1.0,,,,,,,4.0,True,Garage,,,,,"2321-Old-Greenville-Hwy,-Pendleton,-SC-29670",,,3742.0
+443,,,,,,,,,,,,,,,,,,,,"295-Seven-Farms-Dr,-Ste-201,-Daniel-Island,-SC-29492",,,
+444,,,,,,,,,,,,,,,,,,,,"914-Taxus-Dr,-Apt-103,-Odenton,-MD-21113",,,
+445,,,,,,,,,,,,,,,,,,,,"310-Jennie-Ave,-Oxford,-MS-38655",2.5,3.0,1382.0
+446,,,,,,,,,,,,,,,,,,,,"180-Fairway-Dr,-Abingdon,-VA-24211",2.5,3.0,2299.0
+447,,,,,True,1.0,,,,7.0,,,1.0,True,Attached,2.0,True,Community Pool,,"6520-Fairlawn-Dr,-Frisco,-TX-75035",2.0,4.0,2212.0
+448,Ranch,True,Commercial,Wood,True,1.0,True,Forced Air,,,,Slab / Mat / Raft,,True,Detached,,,,,"690-Lake-16-Dr,-Allegan,-MI-49010",1.0,2.0,832.0
+449,Condo / Apartment,True,Central,Concrete Block,,,True,Forced Air,,,,,3.0,,,,,,,"4346-Middlebrook-Rd,-Orlando,-FL-32811",2.0,2.0,1099.0
+450,Condo / Apartment,,,,,3.0,,,,,,,,,,,,,,"3964-Pomodoro-Cir,-Unit-104,-Cape-Coral,-FL-33909",2.0,2.0,1270.0
+451,,True,Central,Other,,1.0,True,Forced Air,Metal,,,,1.0,,,,,,,"101-Eagle-Trace-Ct,-Panama-City-Beach,-FL-32413",2.0,3.0,1626.0
+452,,,,,,1.0,True,Central,Asphalt,5.0,,,1.0,,,,,,,"5438-E-20th-Pl,-Indianapolis,-IN-46218",2.0,2.0,735.0
+453,,True,Central,,,2.0,True,Forced Air,Asphalt,,,Slab / Mat / Raft,,True,Attached,2.0,,,,"2332-Cerberus-Dr,-San-Antonio,-TX-78245",2.5,3.0,2087.0
+454,Townhouse,True,Commercial,Vinyl,,,True,Forced Air,Asphalt,,,OTHER,,True,Garage,,,,,"7529-Southridge-Ln,-Savage,-MN-55378",1.5,2.0,1330.0
+455,,True,Commercial,Brick,True,2.0,True,Forced Air,Shingle,8.0,,,1.0,True,Mixed,,,,,"1006-Knollwood-Dr,-Birmingham,-AL-35242",3.0,,3852.0
+456,,True,Central,Brick Veneer,True,1.0,True,Central,Shingle,8.0,Single,Slab / Mat / Raft,1.0,True,Garage,2.0,,,,"1130-Mountainbrook-Dr,-Shreveport,-LA-71118",2.0,4.0,2178.0
+457,,,,,,,,,,,,,,,,,,,,"10111-Palo-Alto-St,-Rancho-Cucamonga,-CA-91730",2.0,3.0,1000.0
+458,,True,Central,Wood,True,1.0,True,Central,Asphalt,,Single,Slab / Mat / Raft,1.0,True,Attached,,,,,"1-Ardley-Ln,-Bella-Vista,-AR-72714",2.0,3.0,1344.0
+459,,True,Central,Brick,,1.0,True,Forced Air,,,,,,True,Carport,,,,,"228-Ollie-Miller-Rd,-Jasper,-AL-35504",,,1073.0
+460,Bungalow,,,Aluminum / Vinyl Siding,True,2.0,True,Hot Water,Asphalt,9.0,,,1.0,True,Basement,,,,,"83-Barrett-Ave,-Worcester,-MA-01605",2.5,4.0,2196.0
+461,,,,,,,,,,,,,,,,,,,,"390-Harrison-Ave,-Apt-821,-Boston,-MA-02118",1.0,1.0,
+462,,,,,,,,,,,,,,,,,,,,"PO-Box-482,-Gloucester-Point,-VA-23062",,,
+463,,True,Central,Brick,True,2.0,True,Central,Composition Shingle,,Masonry,Slab / Mat / Raft,1.0,True,Detached,2.0,,,,"27128-E-Lana-Ln,-Conroe,-TX-77385",2.5,,2470.0
+464,,,,,,,,,,,,,1.0,,,,,,,"27-Kensington-Dr,-Mount-Holly,-NJ-08060",,,2310.0
+465,,True,Commercial,,True,1.0,True,Central,Composition Shingle,,,Slab / Mat / Raft,1.0,True,Attached,1.0,,,,"3513-Roller-Xing,-Austin,-TX-78728",2.0,,1415.0
+466,,,,,,,,,,,,,,,,,,,,"2584-Panola-Rd,-Lithonia,-GA-30058",,,
+467,,,,Brick,True,2.0,True,Central,,8.0,,,1.0,True,Detached,2.0,,,,"2251-Forest-St,-Denver,-CO-80207",2.0,4.0,1664.0
+468,,True,Central,,True,1.0,True,Central,,7.0,,,1.0,True,Attached,2.0,,,,"2211-Butte-Pl,-Davis,-CA-95616",2.0,4.0,1729.0
+469,Condo / Apartment,,,,,,True,Central,,,,,1.0,,,,,,,"2017-Warfield-Ave---B,-Redondo-Beach,-CA-90278",2.0,3.0,1925.0
+470,,True,Other,Aluminum / Vinyl Siding,True,1.0,True,Heat Pump,Shingle,,,Masonry,,True,Garage,,True,In-Ground Vinyl Pool,,"179-Mahaffey-Dr,-Richmond-Hill,-GA-31324",4.0,3.0,2288.0
+471,,,,,,,,,,,,,,,,,,,,"2101-Sw-Sunset-Blvd,-Apt-A112,-Renton,-WA-98057",,,
+472,Ranch,True,Central,Wood,True,1.0,True,Forced Air,,6.0,Prefab,,1.0,True,Garage,,,,,"890-Old-Rocky-Rd,-Atlanta,-GA-30349",2.0,3.0,1315.0
+473,,True,Central,Stucco,,2.0,True,Forced Air,Composition Shingle,,,,1.0,,,,,,,"640-W-Caladium-Cir,---B,-Panama-City-Beach,-FL-32413",2.0,2.0,1088.0
+474,,,,,,2.0,,,,6.0,,,1.0,True,Garage,,,,,"502-E-Chapman-Ave,-Fullerton,-CA-92832",1.0,3.0,1764.0
+475,,,,,,1.0,,,,,,,1.0,True,Garage,1.0,,,,"8-Serpentine-Rd,-Ringwood,-NJ-07456",,,1435.0
+476,,,,,,2.0,,,,,,,1.0,,,,,,,"224-Bay-48th-St,-Brooklyn,-NY-11214",,,928.0
+477,Split Level,True,Central,Aluminum / Vinyl Siding,,2.0,True,Central,Asphalt,11.0,,,1.0,True,Attached,2.0,,,,"7033-S-2980-W,-West-Jordan,-UT-84084",1.5,5.0,1470.0
+478,,,,,,,,,,,,,,,,,,,,"8422-Ne-Knott-St,-Unit-B,-Portland,-OR-97220",,,
+479,Ranch,True,Central,Wood,True,1.0,True,Central,,,Masonry,Concrete,1.0,True,Garage,2.0,,,,"782-Bristol-Way,-Lithonia,-GA-30058",2.0,3.0,1948.0
+480,,True,Central,Vinyl,,1.0,True,Central,Composition Shingle,,,Brick,1.0,,,,,,,"136-Burns-Rd,-Spartanburg,-SC-29307",1.0,2.0,930.0
+481,,True,Central,Brick,True,1.0,True,Central,Composition Shingle,,Single,Slab / Mat / Raft,,True,Attached,2.0,,,,"2025-Sterling-Gate-Dr,-Heartland,-TX-75126",2.0,3.0,1740.0
+482,,True,Central,Brick Veneer,True,1.0,True,Forced Air,Wood,7.0,Single,Raised,1.0,True,Garage,,,,,"5814-Maylandia-Rd,-Charlotte,-NC-28269",2.5,4.0,2080.0
+483,,,,,,,,,,,,,,,,,,,,"8960-Sw-Hwy,-200-Ste-4,-Ocala,-FL-34481",,,
+484,,,,,,,,,,,,,,,,,,,,"813-Sw-2nd-St,-Cape-Coral,-FL-33991",,,
+485,,,,,,,,,,,,,,,,,,,,"2421-Lake-Kismet-Ter,-Cape-Coral,-FL-33993",3.5,3.0,2765.0
+486,,True,Central,Aluminum / Vinyl Siding,True,1.0,True,Heat Pump,Composition Shingle,,,Footing,1.0,,,,,,,"6-Teenia-St,-Thomasville,-NC-27360",2.0,3.0,1584.0
+487,,,,,,,,,,,,,,,,,,,,"Cherokee-Dr,-Salida,-CO-81201",,,
+488,,True,Central,Brick,True,2.0,True,Central,,7.0,,Slab / Mat / Raft,1.0,True,Attached,2.0,,,,"7220-Lake-Hill-Trl,-Sachse,-TX-75048",2.0,4.0,2546.0
+489,,,,,,,,,,,,,,,,,,,,"520-N-New-Jersey-St,-Indianapolis,-IN-46204",,,
+490,,,,,,,,,,,,,,,,,,,,"1822-21st-St,-Apt-C,-Santa-Monica,-CA-90404",,,
+491,Traditional,True,Commercial,Aluminum / Vinyl Siding,,1.0,True,Forced Air,,,,,1.0,True,Detached,,,,,"1821-65th-St,-Kenosha,-WI-53143",1.0,2.0,672.0
+492,,,,,,,,,,,,,,,,,,,,"193-N-5th-St,-Apt-1,-San-Jose,-CA-95112",,,
+493,,True,Central,Brick Veneer,True,2.0,True,Central,Composition Shingle,,,Slab / Mat / Raft,1.0,True,Attached,,,,,"3020-Westminster-Dr,-Dallas,-TX-75234",2.5,3.0,2705.0
+494,,,,Metal,True,1.0,True,Baseboard,Roll Composition,,,Concrete,1.0,True,Detached,1.0,,,,"4937-Sw-Nevada-Ct,-Portland,-OR-97219",1.0,2.0,798.0
+495,,True,Central,Log,,1.0,True,Central,Asphalt,,,Masonry,,True,Carport,,True,In-Ground Vinyl Pool,,"101-Brown-Dr,-Warner-Robins,-GA-31093",2.0,3.0,1246.0
+496,,,,,,,,,,,,,,,,,,,,"4957-Katella-Ave-Ste-B,-Cypress,-CA-90720",,,
+497,Ranch,True,Central,Brick,True,1.0,True,Central,Roll Composition,6.0,,Slab / Mat / Raft,1.0,True,Attached,,,,,"2017-Dorchester-Rd,-Oklahoma-City,-OK-73130",2.0,3.0,1752.0
+498,,,,,,,,,,,,,,,,,,,,"29-Glenwood-Ave,-Cambridge,-MA-02139",,,
+499,,True,Central,Stucco,,1.0,True,Central,Asphalt,,,Slab / Mat / Raft,1.0,True,Attached,,,,,"494-Bridgeport-Ave-NW,-Palm-Bay,-FL-32907",2.0,3.0,1378.0
