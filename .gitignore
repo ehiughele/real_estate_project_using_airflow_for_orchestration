@@ -1,0 +1,5 @@
+# Ignore virtual environment
+airflowvenv/
+
+# Ignore .env file containing environment variables
+.env
